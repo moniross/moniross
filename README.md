@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# Monir - The Code Enthusiast 👨‍💻
+# Monir - student at 42 morocco 👨‍💻
 
 ## Who is Monir? 🤔
 Monir is a self-proclaimed *coding legend* 👑 who dabbles in HTML, CSS, JavaScript, and React JS. With a growing interest in C and Python, he's on a never-ending journey to learn and build 🚀, even if it means hitting a few roadblocks along the way. His projects are always a "work in progress," but he somehow makes it look effortless (most of the time) ✨.
