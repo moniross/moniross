@@ -1,12 +1,55 @@
-## Hi there 👋
+# Hi there, I'm Monir
 
-# frontend web dev
+### Software Developer | 42 School Student
 
-Monir is a self-proclaimed *coding legend*  who dabbles in HTML, CSS, JavaScript, and React JS. With a growing interest in C and c++;
+I'm a software developer passionate about building scalable applications, learning low-level programming, and exploring modern web technologies.
 
-- **React JS Enthusiast:** ⚛ Monir is diving headfirst into React.
+Currently focused on:
 
-## Skills
-- **C Programming:** 🔧 Adept at tackling C projects, although he prefers to focus on simple tasks that don't break the system.
-- **React JS:** ⚡ In progress, but he's already addicted to the flexibility it offers and the power of components.
-- **JavaScript & HTML/CSS:** 🎨 Knows the basics and is always experimenting with new features, trying to make things look "just right."
+- Docker & System Administration
+- C & C++ (42 School)
+- Full-Stack Web Development
+
+---
+
+## Tech Stack
+
+### Languages
+
+- C
+- C++
+- JavaScript
+- TypeScript
+- HTML
+- CSS
+- SQL
+
+### Frontend
+
+- React
+- Next.js
+- Tailwind CSS
+
+### Backend
+
+- Node.js
+- Express
+- Prisma
+
+### Databases
+
+- PostgreSQL
+- Redis
+
+### Tools & Technologies
+
+- Docker
+- Docker Compose
+- Linux
+- Git & GitHub
+- Nginx
+- REST APIs
+
+---
+
+> *Keep building. Keep learning. Stay curious.*
