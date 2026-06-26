@@ -1,55 +1,21 @@
-# Hi there, I'm Monir
+# Hi there, I'm Monir 👋
 
-### Software Developer | 42 School Student
+Software Developer and 42 School student passionate about low-level programming, system administration, and modern web development.
 
-I'm a software developer passionate about building scalable applications, learning low-level programming, and exploring modern web technologies.
+### Currently
 
-Currently focused on:
+* C & C++
+* Docker & Nginx
+* Full-Stack Web Development
 
-- Docker & System Administration
-- C & C++ (42 School)
-- Full-Stack Web Development
+### Tech Stack
 
----
+**Languages:** C, C++, JavaScript, TypeScript, HTML, CSS, SQL
 
-## Tech Stack
+**Frontend:** React, Next.js, Tailwind CSS
 
-### Languages
+**Backend:** Node.js, Express, Prisma
 
-- C
-- C++
-- JavaScript
-- TypeScript
-- HTML
-- CSS
-- SQL
+**Databases:** PostgreSQL, Redis
 
-### Frontend
-
-- React
-- Next.js
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express
-- Prisma
-
-### Databases
-
-- PostgreSQL
-- Redis
-
-### Tools & Technologies
-
-- Docker
-- Docker Compose
-- Linux
-- Git & GitHub
-- Nginx
-- REST APIs
-
----
-
-> *Keep building. Keep learning. Stay curious.*
+**Tools:** Docker, Linux, Git & GitHub, REST APIs
